@@ -1,0 +1,42 @@
+name: Portfolio Quality & Link Integrity CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate JSON Data Manifest
+        run: |
+          python3 -c "
+          import json
+          with open('PROJECTS.json') as f:
+              data = json.load(f)
+          assert len(data) == 31, f'Expected 31 projects, found {len(data)}'
+          print(f'Successfully validated {len(data)} projects in PROJECTS.json')
+          "
+
+      - name: Validate Markdown Subfiles Existence
+        run: |
+          python3 -c "
+          import json, os
+          with open('PROJECTS.json') as f:
+              data = json.load(f)
+          for p in data:
+              path = os.path.join('projects', p['filename'])
+              assert os.path.exists(path), f'Missing subfile: {path}'
+          print('All 31 project subfiles exist and verified!')
+          "
