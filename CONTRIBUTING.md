@@ -9,3 +9,4 @@ Thank you for your interest in the HRL open-source ecosystem.
 4. **Subfile Updates**: Whenever adding or modifying projects, ensure the corresponding subfile in `projects/` and entry in `PROJECTS.json` are synchronized.
 
 For discussions and partnerships, connect via [hrlpavan](https://github.com/hrlpavan).
+<!-- Verified Quality Standard v1.0 -->
