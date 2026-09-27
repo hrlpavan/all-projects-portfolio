@@ -18,6 +18,8 @@ A dedicated high-performance computing showcase exploring cutting-edge CUDA opti
 | **Repository Name** | [`nvedia-project-by-hrl`](https://github.com/hrlpavan/nvedia-project-by-hrl) |
 | **GitHub URL** | [https://github.com/hrlpavan/nvedia-project-by-hrl](https://github.com/hrlpavan/nvedia-project-by-hrl) |
 | **Architectural Domain** | `GPU Acceleration & High Performance Computing` |
+| **NVIDIA Cloud Account ID** | `1057862535491196` |
+| **Ecosystem Status** | Verified NVIDIA Developer & Cloud Organization |
 | **Primary Language** | `HTML` |
 | **Ecosystem Stack** | `CUDA`, `C++20`, `TensorRT`, `CMake`, `Python`, `HTML5 HUD` |
 | **Access Level** | `Public` |
@@ -30,6 +32,7 @@ A dedicated high-performance computing showcase exploring cutting-edge CUDA opti
 - **TensorRT**: TensorRT inference optimization and FP16/INT8 quantization benchmarks
 - **Unified**: Unified virtual memory memory-bound workload profiling
 - **Interactive**: Interactive hardware capability and warp occupancy visualizer
+- **NVIDIA Cloud & NGC**: Integrated with NVIDIA NIM microservices, container registry, and enterprise SDK runtimes
 
 ---
 
