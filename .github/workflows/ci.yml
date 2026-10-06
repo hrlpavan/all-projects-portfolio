@@ -25,7 +25,7 @@ jobs:
           import json
           with open('PROJECTS.json') as f:
               data = json.load(f)
-          assert len(data) == 31, f'Expected 31 projects, found {len(data)}'
+          assert len(data) == 52, f'Expected 52 projects, found {len(data)}'
           print(f'Successfully validated {len(data)} projects in PROJECTS.json')
           "
 
@@ -38,5 +38,5 @@ jobs:
           for p in data:
               path = os.path.join('projects', p['filename'])
               assert os.path.exists(path), f'Missing subfile: {path}'
-          print('All 31 project subfiles exist and verified!')
+          print('All 52 project subfiles exist and verified!')
           "

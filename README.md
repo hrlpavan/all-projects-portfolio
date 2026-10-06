@@ -4,13 +4,14 @@
 
 [![Architect](https://img.shields.io/badge/Chief%20Architect-Pavan%20Kumar%20Sadashiv-0A66C2?style=for-the-badge&logo=linkedin)](https://github.com/hrlpavan)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-hrlpavan-181717?style=for-the-badge&logo=github)](https://github.com/hrlpavan)
-[![Total Projects](https://img.shields.io/badge/Master%20Portfolio-31%20Projects-success?style=for-the-badge&logo=git)](projects/)
+[![GitLab Profile](https://img.shields.io/badge/GitLab-hrlpavan-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hrlpavan)
+[![Total Projects](https://img.shields.io/badge/Master%20Portfolio-52%20Projects-success?style=for-the-badge&logo=git)](projects/)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-HRL%20International%20Pvt.%20Ltd.-orange?style=for-the-badge)](https://github.com/hrlpavan/hrl-international-website-)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Streak Maintained](https://img.shields.io/badge/Contributions-Streak%20Active-brightgreen?style=for-the-badge&logo=githubactions)](https://github.com/hrlpavan)
 
 <p align="center">
-  <b>The comprehensive, centralized directory and technical catalog of all 31+ engineering projects, autonomous AI systems, real-time 3D simulations, video editing plugins, and enterprise platforms built by Pavan Kumar Sadashiv (HRL).</b>
+  <b>The comprehensive, centralized directory and technical catalog of all 52 engineering projects, autonomous AI systems, real-time 3D simulations, video editing plugins, and enterprise platforms built by Pavan Kumar Sadashiv (HRL).</b>
 </p>
 
 </div>
@@ -20,7 +21,7 @@
 ## 📌 Table of Contents
 - [Executive Overview](#-executive-overview)
 - [Portfolio Metrics & Tech Stack](#-portfolio-metrics--tech-stack)
-- [Master Project Catalog (31 Projects)](#-master-project-catalog)
+- [Master Project Catalog (52 Projects)](#-master-project-catalog)
 - [Categorical Deep Dives](#-categorical-deep-dives)
   - [1. Autonomous AI, LLMs & Agentic Systems](#1-autonomous-ai-llms--agentic-systems)
   - [2. Real-Time Simulation, 3D Graphics & DSP Audio](#2-real-time-simulation-3d-graphics--dsp-audio)
@@ -51,7 +52,7 @@ Every single project features:
 ========================================================================================
  MASTER PORTFOLIO METRICS
 ========================================================================================
- Total Completed Repositories : 31 Projects
+ Total Completed Repositories : 52 Projects (Synced on GitHub & GitLab)
  Architectural Domains        : 6 Specialized Disciplines
  Primary Languages            : C++20, Python, TypeScript, JavaScript, Rust, Zig, C, Swift, Lua
  Simulation & Graphics        : WebGL, Three.js, Web Audio DSP, GLSL Shaders, CUDA
@@ -98,6 +99,27 @@ Every single project features:
 | **29** | [Intelligent Process Automation & RPA Report](projects/29-IPA-AND-RPA-REPORT.md) | [`IPA-AND-RPA-REPORT`](https://github.com/hrlpavan/IPA-AND-RPA-REPORT) | `Enterprise Automation & Research` | `Documentation` | 🌐 Public | [View Info →](projects/29-IPA-AND-RPA-REPORT.md) |
 | **30** | [Project Sahyadri X HRL](projects/30-Sahyadri-X-Project-HRL.md) | [`Sahyadri-X-Project-HRL`](https://github.com/hrlpavan/Sahyadri-X-Project-HRL) | `Academic-Industry Collaboration` | `Research / Systems` | 🔒 Private | [View Info →](projects/30-Sahyadri-X-Project-HRL.md) |
 | **31** | [Verified Credentials & Certifications](projects/31-My-Certificates.md) | [`My-Certificates`](https://github.com/hrlpavan/My-Certificates) | `Academic Accreditations & Honors` | `Credentials` | 🌐 Public | [View Info →](projects/31-My-Certificates.md) |
+| **32** | [HRL X Mac Bug Fix & WebKit Recovery Suite](projects/32-HRL-X-MAC-BUG-FIX.md) | [`HRL-X-MAC-BUG-FIX`](https://github.com/hrlpavan/HRL-X-MAC-BUG-FIX) | `Systems Diagnostics & macOS Engineering` | `Shell / Python` | 🌐 Public | [View Info →](projects/32-HRL-X-MAC-BUG-FIX.md) |
+| **33** | [HRL X Antigravity Goal State Engine (Feudal HRL v2.1)](projects/33-HRL-X-Antigravity-Goal-State-Mode.md) | [`HRL-X-Antigravity-Goal-State-Mode`](https://github.com/hrlpavan/HRL-X-Antigravity-Goal-State-Mode) | `Agentic AI & Reinforcement Learning` | `Python / Markdown` | 🌐 Public | [View Info →](projects/33-HRL-X-Antigravity-Goal-State-Mode.md) |
+| **34** | [GitLab & GitHub Unified Dual-Sync Engine & Contributor Runbook](projects/34-gitlab-sync.md) | [`gitlab-sync`](https://github.com/hrlpavan/gitlab-sync) | `Developer Tooling & Open-Source Contributions` | `Shell / Ruby` | 🌐 Public | [View Info →](projects/34-gitlab-sync.md) |
+| **35** | [HRL X Brag — Autonomous Launch Video & Campaign Synthesizer](projects/35-HRL-X-Brag.md) | [`HRL-X-Brag`](https://github.com/hrlpavan/HRL-X-Brag) | `Creative Tools & Generative Media` | `Python` | 🌐 Public | [View Info →](projects/35-HRL-X-Brag.md) |
+| **36** | [Nirman-Drishti — Autonomous Infrastructure Forensic Auditor](projects/36-nirman-drishti.md) | [`nirman-drishti`](https://github.com/hrlpavan/nirman-drishti) | `AI / GovTech & Computer Vision` | `Python / TypeScript` | 🌐 Public | [View Info →](projects/36-nirman-drishti.md) |
+| **37** | [Computer Vision Feature Matching & Homography Suite](projects/37-feature-matching-presentation.md) | [`feature-matching-presentation`](https://github.com/hrlpavan/feature-matching-presentation) | `Computer Vision & Interactive Education` | `HTML / Python` | 🌐 Public | [View Info →](projects/37-feature-matching-presentation.md) |
+| **38** | [HRL-X-FAQ — Executive NVIDIA & Google Engineering Dossier](projects/38-HRL-X-FAQ.md) | [`HRL-X-FAQ`](https://github.com/hrlpavan/HRL-X-FAQ) | `Executive Strategy & Technical Dossiers` | `Markdown / HTML` | 🌐 Public | [View Info →](projects/38-HRL-X-FAQ.md) |
+| **39** | [Daily Project Updates & Automated Engineering Telemetry Log](projects/39-daily-project-updates.md) | [`daily-project-updates`](https://github.com/hrlpavan/daily-project-updates) | `Developer Tooling & DevOps` | `Python` | 🌐 Public | [View Info →](projects/39-daily-project-updates.md) |
+| **40** | [HRL Company Page Announcement Design System](projects/40-HRL-Company-Page-Announcement-Design.md) | [`HRL-Company-Page-Announcement-Design`](https://github.com/hrlpavan/HRL-Company-Page-Announcement-Design) | `Brand Identity & Enterprise Web` | `HTML / CSS` | 🌐 Public | [View Info →](projects/40-HRL-Company-Page-Announcement-Design.md) |
+| **41** | [HRL X Mac X Windows VM Hybrid Execution Protocol](projects/41-HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM.md) | [`HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM`](https://github.com/hrlpavan/HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM) | `Systems Engineering & Cross-OS Virtualization` | `Shell / PowerShell` | 🌐 Public | [View Info →](projects/41-HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM.md) |
+| **42** | [DaVinci Resolve Media Offline Bug Fix Toolkit](projects/42-media-offline-bug-fix-by-hrl.md) | [`media-offline-bug-fix-by-hrl`](https://github.com/hrlpavan/media-offline-bug-fix-by-hrl) | `Creative Tools & Post-Production` | `Python / Shell` | 🌐 Public | [View Info →](projects/42-media-offline-bug-fix-by-hrl.md) |
+| **43** | [HRL GOD's Command Line For Antigravity](projects/43-HRL-GODs-Command-Line-For-Antigravity.md) | [`HRL-GODs-Command-Line-For-Antigravity`](https://github.com/hrlpavan/HRL-GODs-Command-Line-For-Antigravity) | `Agentic AI & Developer Tooling` | `Shell / Python` | 🌐 Public | [View Info →](projects/43-HRL-GODs-Command-Line-For-Antigravity.md) |
+| **44** | [HRL X UiPath — Enterprise RPA & Agentic Automation Suite](projects/44-HRL-X-UiPath.md) | [`HRL-X-UiPath`](https://github.com/hrlpavan/HRL-X-UiPath) | `Enterprise Automation & RPA` | `XAML / C#` | 🌐 Public | [View Info →](projects/44-HRL-X-UiPath.md) |
+| **45** | [PANOPTICON — Autonomous Multi-Domain Geospatial & SIGINT War Room](projects/45-panopticon.md) | [`panopticon`](https://github.com/hrlpavan/panopticon) | `Geospatial Intelligence & Real-Time Telemetry` | `TypeScript` | 🔒 Private | [View Info →](projects/45-panopticon.md) |
+| **46** | [HRL Executive Member Vault & C-Suite Mandate Archive](projects/46-hrl-executive-member-vault.md) | [`hrl-executive-member-vault`](https://github.com/hrlpavan/hrl-executive-member-vault) | `Enterprise Operations & Legal Charters` | `Markdown / HTML` | 🔒 Private | [View Info →](projects/46-hrl-executive-member-vault.md) |
+| **47** | [NVIDIA TensorRT Model Connect (HRL Optimization Fork)](projects/47-TensorRT-Model-Connect.md) | [`TensorRT-Model-Connect`](https://github.com/hrlpavan/TensorRT-Model-Connect) | `GPU Acceleration & High Performance Computing` | `Python / C++` | 🌐 Public | [View Info →](projects/47-TensorRT-Model-Connect.md) |
+| **48** | [Developer Skill Icons — DaVinci Resolve, Antigravity & UiPath](projects/48-skill-icons.md) | [`skill-icons`](https://github.com/hrlpavan/skill-icons) | `Brand Identity & Open-Source Contributions` | `JavaScript / SVG` | 🌐 Public | [View Info →](projects/48-skill-icons.md) |
+| **49** | [Google Earth 3D Model Context Protocol (MCP) Server](projects/49-google-earth-mcp.md) | [`google-earth-mcp`](https://github.com/hrlpavan/google-earth-mcp) | `Geospatial Intelligence & Agentic AI` | `Python` | 🌐 Public | [View Info →](projects/49-google-earth-mcp.md) |
+| **50** | [AI Cinematic Haze — OpenFX & Fusion Plugin for DaVinci Resolve](projects/50-ai-cinematic-haze-ofx.md) | [`ai-cinematic-haze-ofx`](https://github.com/hrlpavan/ai-cinematic-haze-ofx) | `Creative Tools & GPU Shaders` | `C++ / Metal / CUDA` | 🌐 Public | [View Info →](projects/50-ai-cinematic-haze-ofx.md) |
+| **51** | [HRL International — IP, Trademark, Copyright & DMCA Charter](projects/51-hrl-legal-ip-dmca-policy.md) | [`hrl-legal-ip-dmca-policy`](https://github.com/hrlpavan/hrl-legal-ip-dmca-policy) | `Enterprise Operations & Legal Charters` | `Markdown / HTML` | 🌐 Public | [View Info →](projects/51-hrl-legal-ip-dmca-policy.md) |
+| **52** | [NVIDIA Omniverse Kit USD Explorer Application Template](projects/52-kit-app-template.md) | [`kit-app-template`](https://github.com/hrlpavan/kit-app-template) | `3D Graphics & Mechanical Simulation` | `Python / C++` | 🌐 Public | [View Info →](projects/52-kit-app-template.md) |
 
 ---
 
@@ -111,6 +133,10 @@ Flagship intelligent systems designed for sub-millisecond inference, hierarchica
 - **[OmniTransform AI](projects/04-omnitransform-ai-resources.md)**: Smart India Hackathon 2026 flagship multi-modal transformation and dataset pipeline.
 - **[Antigravity Skills Catalog](projects/05-skills.md)**: 50+ modular autonomous agent skill specifications for Google Antigravity.
 - **[SIH 2026 Problem Statements](projects/06-sih-2026-media-problem-statements.md)**: Comprehensive evaluation, feasibility matrices, and research dataset.
+- **[HRL X Antigravity Goal State Engine (Feudal HRL v2.1)](projects/33-HRL-X-Antigravity-Goal-State-Mode.md)**: Autonomous Goal Engine v2.1 based on Feudal Hierarchical Reinforcement Learning (HRL) for long-horizon Google Antigravity execution.
+- **[Nirman-Drishti — Autonomous Infrastructure Forensic Auditor](projects/36-nirman-drishti.md)**: Autonomous Multimodal Forensic Audit Engine for Public Infrastructure & Constituency Works using Computer Vision and Geospatial Telemetry.
+- **[HRL GOD's Command Line For Antigravity](projects/43-HRL-GODs-Command-Line-For-Antigravity.md)**: High-Performance System Administration, Autonomous Extension Stack & Storage Management CLI Engine for macOS & Google Antigravity.
+- **[Google Earth 3D Model Context Protocol (MCP) Server](projects/49-google-earth-mcp.md)**: Zero-dependency Python Model Context Protocol (MCP) server for 3D Google Earth camera vectoring, KML/KMZ tour generation, and coordinate conversion.
 
 ### 2. Real-Time Simulation, 3D Graphics & DSP Audio
 Physical twin modeling, procedural acoustics, thermodynamic cycle calculations, and hardware-accelerated computing.
@@ -118,6 +144,10 @@ Physical twin modeling, procedural acoustics, thermodynamic cycle calculations, 
 - **[HRL x Rolls-Royce V12 Twin](projects/08-hrl-x-rolls-royce.md)**: 6¾L Twin-Turbo V12 CAD visualizer with Ganesan thermodynamic cycle calculations.
 - **[HRL X Noise Cancellation DSP](projects/09-hrl-x-noise-cancellation.md)**: Real-time dual-mic adaptive LMS filtering and acoustic spectral subtraction.
 - **[NVIDIA Accelerated Platform](projects/10-nvedia-project-by-hrl.md)**: CUDA kernels, TensorRT acceleration, and GPU warp occupancy profiling.
+- **[Computer Vision Feature Matching & Homography Suite](projects/37-feature-matching-presentation.md)**: Interactive Apple Keynote-Style Technical Presentation & OpenCV Implementation of SIFT, ORB, Lowe's Ratio Test, and RANSAC Homography.
+- **[PANOPTICON — Autonomous Multi-Domain Geospatial & SIGINT War Room](projects/45-panopticon.md)**: Real-time global geospatial, orbital satellite (Celestrak), aviation (OpenSky), and seismic (USGS) 3D telemetry platform.
+- **[NVIDIA TensorRT Model Connect (HRL Optimization Fork)](projects/47-TensorRT-Model-Connect.md)**: End-to-end Hugging Face to NVIDIA TensorRT inference deployment pipeline with fixed documentation routing and quantization recipes.
+- **[NVIDIA Omniverse Kit USD Explorer Application Template](projects/52-kit-app-template.md)**: Customized NVIDIA Omniverse Kit & OpenUSD Explorer Application Template with automated scene playback and extension tooling.
 
 ### 3. DaVinci Resolve Suites & Post-Production Tools
 Automating cinema-grade video editing, subtitle synthesis, and motion graphics inside DaVinci Resolve Studio 21.
@@ -126,6 +156,9 @@ Automating cinema-grade video editing, subtitle synthesis, and motion graphics i
 - **[HRL's DaVinci Resolve Plugin](projects/13-HRL-s-Plugin-For-DaVinci-Resolve-21.md)**: Dedicated effects generator, node-tree presets, and color transformations.
 - **[HRL Cinematic LUT Library](projects/14-HRL-X-LUT-FILE.md)**: Professional 33x33 and 65x65 3D Cube LUTs calibrated for ARRI, RED, and Sony cinema cameras.
 - **[HRL Real Estate Dynamic Captions](projects/15-HRL-X-REALESTATE-STYLE-PREBUILT-CAPTION.md)**: Kinetic typography templates for high-converting vertical video.
+- **[HRL X Brag — Autonomous Launch Video & Campaign Synthesizer](projects/35-HRL-X-Brag.md)**: Autonomous 1080p60 Launch Video & Commercial Campaign Synthesis Engine powered by Procedural Motion Graphics, ElevenLabs Neural Voice, and FFmpeg.
+- **[DaVinci Resolve Media Offline Bug Fix Toolkit](projects/42-media-offline-bug-fix-by-hrl.md)**: Zero-dependency diagnostic and auto-repair toolkit for resolving DaVinci Resolve 'Media Offline' red-frame errors on macOS.
+- **[AI Cinematic Haze — OpenFX & Fusion Plugin for DaVinci Resolve](projects/50-ai-cinematic-haze-ofx.md)**: Native C++20, Apple Metal, and NVIDIA CUDA OpenFX & Fusion atmospheric depth-haze plugin for DaVinci Resolve Studio 21.
 
 ### 4. Commercial Enterprise, PropTech & Platforms
 Scalable web portals, enterprise PropTech platforms, corporate asset archives, and brand vector design systems.
@@ -133,6 +166,10 @@ Scalable web portals, enterprise PropTech platforms, corporate asset archives, a
 - **[HRL International Website](projects/17-hrl-international-website.md)**: Corporate enterprise portal showcasing multi-disciplinary engineering divisions.
 - **[HRL Enterprise Files](projects/18-HRL-INTERNATIONAL-PVT-LTD-FILES.md)**: Operational blueprints, organizational charters, and governance documents.
 - **[Brand Identity & Design Assets](projects/19-Documents-Logo-s-and-Files.md)**: Master vector marks, logos, typography, and corporate guidelines.
+- **[HRL Company Page Announcement Design System](projects/40-HRL-Company-Page-Announcement-Design.md)**: Official Corporate Announcement Design System, Component Library, and Interactive Release Showcase for HRL International.
+- **[HRL Executive Member Vault & C-Suite Mandate Archive](projects/46-hrl-executive-member-vault.md)**: Private C-Suite Executive Governance Vault housing CGRO Statutory Mandates, US Delaware C-Corp Expansion Playbooks, and Grant Dossiers.
+- **[Developer Skill Icons — DaVinci Resolve, Antigravity & UiPath](projects/48-skill-icons.md)**: Custom vector SVG developer skill icons for DaVinci Resolve Studio, Google Antigravity, and UiPath Studio (PR #1803).
+- **[HRL International — IP, Trademark, Copyright & DMCA Charter](projects/51-hrl-legal-ip-dmca-policy.md)**: Official Public Intellectual Property Vault, NICE Trademark Classification (Classes 9, 38, 41, 42), Copyright Doctrine, and Statutory DMCA Policy.
 
 ### 5. Executive Blueprints, Manifestos & Career Architecture
 Thought leadership, executive compensation models, and comprehensive career valuation blueprints.
@@ -140,6 +177,7 @@ Thought leadership, executive compensation models, and comprehensive career valu
 - **[RULE BREAKING (Version 2.0)](projects/21-rule-breaking-v2-book.md)**: The 100x AI Chief Architect Manifesto by Pavan Kumar Sadashiv.
 - **[HRL Executive Career Archive](projects/22-hrl-executive-career-archive.md)**: Private master archive tracking milestones, patents, and architectural breakthroughs.
 - **[GitHub Profile & Portfolio Hub](projects/23-hrlpavan-profile.md)**: The central public identity gateway for Pavan Kumar Sadashiv.
+- **[HRL-X-FAQ — Executive NVIDIA & Google Engineering Dossier](projects/38-HRL-X-FAQ.md)**: Executive Engineering Dossier & Technical Justification Matrix detailing low-level CUDA C++20, Paged KV-Cache, and Agentic AI architectures.
 
 ### 6. Toolchains, Big Data Pipelines & CS Foundations
 Developer productivity CLI tools, distributed lakehouse analytics, and rigorous algorithmic computer science implementations.
@@ -151,17 +189,22 @@ Developer productivity CLI tools, distributed lakehouse analytics, and rigorous 
 - **[IPA & RPA Technical Report](projects/29-IPA-AND-RPA-REPORT.md)**: In-depth research analyzing cognitive Intelligent Process Automation and enterprise bots.
 - **[Project Sahyadri X HRL](projects/30-Sahyadri-X-Project-HRL.md)**: Collaborative academic-industry initiative advancing embedded systems and AI research.
 - **[Verified Credentials & Certifications](projects/31-My-Certificates.md)**: Official verification archive of professional certifications and honors.
+- **[HRL X Mac Bug Fix & WebKit Recovery Suite](projects/32-HRL-X-MAC-BUG-FIX.md)**: Automated Diagnostics, WebKit Process Pool Resolution, WindowServer/Dock Recovery, and Safari State Repair Suite for macOS.
+- **[GitLab & GitHub Unified Dual-Sync Engine & Contributor Runbook](projects/34-gitlab-sync.md)**: Unified GitHub x GitLab Dual-Sync Engine and Official GitLab Community Contributor Technical Runbook (MRs !7251, !9851, !259119).
+- **[Daily Project Updates & Automated Engineering Telemetry Log](projects/39-daily-project-updates.md)**: Centralized Source of Truth for Daily Engineering Velocity, Automated Commit Aggregation, and Multi-Repo Telemetry across 50+ HRL Projects.
+- **[HRL X Mac X Windows VM Hybrid Execution Protocol](projects/41-HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM.md)**: Enterprise hybrid execution protocol bridging macOS (Apple Silicon), Parallels Desktop, Windows 11 UiPath RPA, DaVinci Resolve, and External Storage via LLM.
+- **[HRL X UiPath — Enterprise RPA & Agentic Automation Suite](projects/44-HRL-X-UiPath.md)**: Production UiPath Studio 2026 RPA & Coded Workflow Suite featuring AutoFileOrganizer and SmartNotepadGreeter.
 
 ---
 
 ## 📦 Structured Metadata Manifest
-This repository includes a machine-readable data manifest: **[`PROJECTS.json`](PROJECTS.json)** containing the complete structured schema for all 31 projects, enabling programmatic ingestion, indexing, and automated portfolio rendering.
+This repository includes a machine-readable data manifest: **[`PROJECTS.json`](PROJECTS.json)** containing the complete structured schema for all 52 projects, enabling programmatic ingestion, indexing, and automated portfolio rendering.
 
 ---
 
 ## ⚡ Automated Verification & CI
 Every commit and push triggers the automated GitHub Action **[`ci.yml`](.github/workflows/ci.yml)**, ensuring:
-- All 31 subfiles exist and match the index.
+- All 52 subfiles exist and match the index.
 - `PROJECTS.json` remains schema-compliant and synchronized.
 - Zero broken local markdown links.
 
