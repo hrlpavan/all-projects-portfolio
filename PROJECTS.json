@@ -1645,32 +1645,33 @@
     "id": 53,
     "filename": "53-hrl-corporate-flag.md",
     "name": "hrl-corporate-flag",
-    "title": "HRL Corporate Flag & Heraldic Apex Beast Identity System",
-    "category": "Commercial Enterprise, PropTech & Platforms",
-    "desc": "Official corporate flag and heraldic vector identity system for HRL International Private Limited featuring the Twin-Headed Shadow Wyvern.",
+    "title": "HRL International Official Corporate Flag",
+    "category": "Commercial Enterprise, Brand Identity & Vexillology",
+    "desc": "Official sovereign corporate flag and heraldic vector identity system for HRL International Private Limited featuring Nordic Cross geometry, quad-stripe canton, official brand insignia, dual heraldic eagles, and 8-pointed compass star.",
     "html_url": "https://github.com/hrlpavan/hrl-corporate-flag",
-    "primary_lang": "SVG / Python / HTML5",
+    "primary_lang": "SVG / HTML5 / CSS3",
     "languages": [
       "SVG",
-      "Python",
       "HTML5",
-      "CSS3"
+      "CSS3",
+      "Python"
     ],
     "visibility": "Public",
     "created_at": "2026-10-20",
     "highlights": [
-      "Pure solid black (#000000) heraldic emblem inspired by the Albanian double-headed eagle silhouette",
-      "Non-regular terrifying mythical beast: Twin-Headed Abyssal Wyvern with serrated horns, gaping fangs, and barbed serpent tongues",
-      "Compound vector path architecture using fill-rule=\"evenodd\" for true negative-space cutouts",
-      "Fully customizable background via CSS variable --bg-color or XML fill attribute, with interactive web previewer"
+      "Nordic Cross geometry with 83px modular grid system and golden 3:2 proportion",
+      "Official HRL brand insignia integrated seamlessly across the horizontal cross bar",
+      "Bilateral dual heraldic double-headed eagles flanking an 8-pointed crimson compass star",
+      "Dynamic background recoloring via CSS custom variables (--field-color, --bg-color)",
+      "Production-ready scalable vector graphics (.SVG) deployed across website, GitHub, and GitLab"
     ],
     "tech_stack": [
       "Scalable Vector Graphics (SVG)",
-      "Python 3",
+      "83px Modular Grid System",
       "HTML5 / CSS3",
-      "Bézier Geometry"
+      "Python 3"
     ],
-    "summary": "The official corporate flag and heraldic apex beast identity system engineered for HRL International Private Limited with pure black compound paths and replaceable backgrounds.",
+    "summary": "The official sovereign corporate flag and heraldic vector identity system engineered for HRL International Private Limited with Nordic Cross geometry, quad-stripe canton, official brand insignia, dual heraldic eagles, and 8-pointed compass star.",
     "gitlab_url": "https://gitlab.com/hrlpavan/hrl-corporate-flag"
   }
 ]
