@@ -102,7 +102,7 @@
     "name": "omnitransform-ai-resources",
     "title": "OmniTransform AI",
     "category": "AI / Hackathons & Innovation",
-    "desc": "OmniTransform AI (SIH 2026 PS ID 26154) \u2014 Complete Resource Bundle: Datasets, Model Setup, Slide Decks, Architecture, and Pipeline Code.",
+    "desc": "OmniTransform AI (SIH 2026 PS ID 26154) — Complete Resource Bundle: Datasets, Model Setup, Slide Decks, Architecture, and Pipeline Code.",
     "html_url": "https://github.com/hrlpavan/omnitransform-ai-resources",
     "primary_lang": "TypeScript",
     "languages": [
@@ -200,7 +200,7 @@
     "name": "hrl-v12-engine",
     "title": "HRL V12 Engine 3D Simulation",
     "category": "3D Graphics & Mechanical Simulation",
-    "desc": "Interactive 3D WebGL 60\u00b0 Quad-Cam 48-Valve V12 Four-Stroke Racing Engine simulation with real-time procedural Web Audio synthesis and analytical telemetry by HRL Labs.",
+    "desc": "Interactive 3D WebGL 60° Quad-Cam 48-Valve V12 Four-Stroke Racing Engine simulation with real-time procedural Web Audio synthesis and analytical telemetry by HRL Labs.",
     "html_url": "https://github.com/hrlpavan/hrl-v12-engine",
     "primary_lang": "JavaScript",
     "languages": [
@@ -217,7 +217,7 @@
     "visibility": "Public",
     "created_at": "2026-09-08",
     "highlights": [
-      "Kinematically accurate 60\u00b0 Quad-Cam 48-Valve V12 mechanical simulation",
+      "Kinematically accurate 60° Quad-Cam 48-Valve V12 mechanical simulation",
       "Procedural Web Audio engine acoustics simulating exhaust pulses and harmonics",
       "Real-time PV diagram, thermal stress, and RPM telemetry HUD",
       "Cross-language computational cores implemented in C, Rust, Zig, Go, and JS"
@@ -239,7 +239,7 @@
     "name": "hrl-x-rolls-royce",
     "title": "HRL x Rolls-Royce V12 Digital Twin",
     "category": "Automotive Engineering & Digital Twins",
-    "desc": "HRL x Rolls-Royce \u2014 6\u00beL Twin-Turbo V12 Interactive 3D CAD & Ganesan Thermodynamics Powertrain Digital Twin Platform.",
+    "desc": "HRL x Rolls-Royce — 6¾L Twin-Turbo V12 Interactive 3D CAD & Ganesan Thermodynamics Powertrain Digital Twin Platform.",
     "html_url": "https://github.com/hrlpavan/hrl-x-rolls-royce",
     "primary_lang": "JavaScript",
     "languages": [
@@ -256,7 +256,7 @@
     "visibility": "Public",
     "created_at": "2026-09-09",
     "highlights": [
-      "High-precision 6\u00be-litre twin-turbocharged V12 CAD visualizer",
+      "High-precision 6¾-litre twin-turbocharged V12 CAD visualizer",
       "Ganesan internal combustion thermodynamic cycle modeling",
       "P-V and T-S state calculations with boost pressure regulation",
       "Luxury cabin acoustic isolation simulation"
@@ -617,7 +617,7 @@
     "name": "engineering-compensation-blueprint",
     "title": "Engineering Compensation Blueprint",
     "category": "Executive Strategy & Career Architecture",
-    "desc": "Official Statement of Compensation, Hiring Terms & Career Valuation Blueprint \u2014 Pavan Kumar Sadashiv.",
+    "desc": "Official Statement of Compensation, Hiring Terms & Career Valuation Blueprint — Pavan Kumar Sadashiv.",
     "html_url": "https://github.com/hrlpavan/engineering-compensation-blueprint",
     "primary_lang": "HTML",
     "languages": [
@@ -645,7 +645,7 @@
     "name": "rule-breaking-v2-book",
     "title": "RULE BREAKING (Version 2.0)",
     "category": "Books & Leadership Manifestos",
-    "desc": "RULE BREAKING (Version 2.0) \u2014 The 100x AI Chief Architect Manifesto by Pavan Kumar Sadashiv (HRL). Master Patent & Global Publication Edition.",
+    "desc": "RULE BREAKING (Version 2.0) — The 100x AI Chief Architect Manifesto by Pavan Kumar Sadashiv (HRL). Master Patent & Global Publication Edition.",
     "html_url": "https://github.com/hrlpavan/rule-breaking-v2-book",
     "primary_lang": "HTML",
     "languages": [
@@ -673,7 +673,7 @@
     "name": "hrl-executive-career-archive",
     "title": "HRL Executive Career Archive",
     "category": "Executive Archives & Career Valuation",
-    "desc": "Private Master Archive: Comprehensive Career Valuation, 100x Architecture Blueprint, and Operations Log \u2014 Pavan Kumar Sadashiv.",
+    "desc": "Private Master Archive: Comprehensive Career Valuation, 100x Architecture Blueprint, and Operations Log — Pavan Kumar Sadashiv.",
     "html_url": "https://github.com/hrlpavan/hrl-executive-career-archive",
     "primary_lang": "HTML",
     "languages": [
@@ -701,7 +701,7 @@
     "name": "hrlpavan",
     "title": "Official GitHub Profile & Portfolio Hub",
     "category": "Developer Portfolios & Identity",
-    "desc": "Official GitHub Profile & Executive Portfolio \u2014 Pavan Kumar Sadashiv (AI Chief Architect & Tech Lead).",
+    "desc": "Official GitHub Profile & Executive Portfolio — Pavan Kumar Sadashiv (AI Chief Architect & Tech Lead).",
     "html_url": "https://github.com/hrlpavan/hrlpavan",
     "primary_lang": "HTML",
     "languages": [
@@ -1069,7 +1069,7 @@
     "id": 35,
     "filename": "35-HRL-X-Brag.md",
     "name": "HRL-X-Brag",
-    "title": "HRL X Brag \u2014 Autonomous Launch Video & Campaign Synthesizer",
+    "title": "HRL X Brag — Autonomous Launch Video & Campaign Synthesizer",
     "category": "Creative Tools & Generative Media",
     "desc": "Autonomous 1080p60 Launch Video & Commercial Campaign Synthesis Engine powered by Procedural Motion Graphics, ElevenLabs Neural Voice, and FFmpeg.",
     "html_url": "https://github.com/hrlpavan/HRL-X-Brag",
@@ -1101,7 +1101,7 @@
     "id": 36,
     "filename": "36-nirman-drishti.md",
     "name": "nirman-drishti",
-    "title": "Nirman-Drishti \u2014 Autonomous Infrastructure Forensic Auditor",
+    "title": "Nirman-Drishti — Autonomous Infrastructure Forensic Auditor",
     "category": "AI / GovTech & Computer Vision",
     "desc": "Autonomous Multimodal Forensic Audit Engine for Public Infrastructure & Constituency Works using Computer Vision and Geospatial Telemetry.",
     "html_url": "https://github.com/hrlpavan/nirman-drishti",
@@ -1167,7 +1167,7 @@
     "id": 38,
     "filename": "38-HRL-X-FAQ.md",
     "name": "HRL-X-FAQ",
-    "title": "HRL-X-FAQ \u2014 Executive NVIDIA & Google Engineering Dossier",
+    "title": "HRL-X-FAQ — Executive NVIDIA & Google Engineering Dossier",
     "category": "Executive Strategy & Technical Dossiers",
     "desc": "Executive Engineering Dossier & Technical Justification Matrix detailing low-level CUDA C++20, Paged KV-Cache, and Agentic AI architectures.",
     "html_url": "https://github.com/hrlpavan/HRL-X-FAQ",
@@ -1357,7 +1357,7 @@
     "id": 44,
     "filename": "44-HRL-X-UiPath.md",
     "name": "HRL-X-UiPath",
-    "title": "HRL X UiPath \u2014 Enterprise RPA & Agentic Automation Suite",
+    "title": "HRL X UiPath — Enterprise RPA & Agentic Automation Suite",
     "category": "Enterprise Automation & RPA",
     "desc": "Production UiPath Studio 2026 RPA & Coded Workflow Suite featuring AutoFileOrganizer and SmartNotepadGreeter.",
     "html_url": "https://github.com/hrlpavan/HRL-X-UiPath",
@@ -1389,7 +1389,7 @@
     "id": 45,
     "filename": "45-panopticon.md",
     "name": "panopticon",
-    "title": "PANOPTICON \u2014 Autonomous Multi-Domain Geospatial & SIGINT War Room",
+    "title": "PANOPTICON — Autonomous Multi-Domain Geospatial & SIGINT War Room",
     "category": "Geospatial Intelligence & Real-Time Telemetry",
     "desc": "Real-time global geospatial, orbital satellite (Celestrak), aviation (OpenSky), and seismic (USGS) 3D telemetry platform.",
     "html_url": "https://github.com/hrlpavan/panopticon",
@@ -1486,7 +1486,7 @@
     "id": 48,
     "filename": "48-skill-icons.md",
     "name": "skill-icons",
-    "title": "Developer Skill Icons \u2014 DaVinci Resolve, Antigravity & UiPath",
+    "title": "Developer Skill Icons — DaVinci Resolve, Antigravity & UiPath",
     "category": "Brand Identity & Open-Source Contributions",
     "desc": "Custom vector SVG developer skill icons for DaVinci Resolve Studio, Google Antigravity, and UiPath Studio (PR #1803).",
     "html_url": "https://github.com/hrlpavan/skill-icons",
@@ -1547,7 +1547,7 @@
     "id": 50,
     "filename": "50-ai-cinematic-haze-ofx.md",
     "name": "ai-cinematic-haze-ofx",
-    "title": "AI Cinematic Haze \u2014 OpenFX & Fusion Plugin for DaVinci Resolve",
+    "title": "AI Cinematic Haze — OpenFX & Fusion Plugin for DaVinci Resolve",
     "category": "Creative Tools & GPU Shaders",
     "desc": "Native C++20, Apple Metal, and NVIDIA CUDA OpenFX & Fusion atmospheric depth-haze plugin for DaVinci Resolve Studio 21.",
     "html_url": "https://github.com/hrlpavan/ai-cinematic-haze-ofx",
@@ -1581,7 +1581,7 @@
     "id": 51,
     "filename": "51-hrl-legal-ip-dmca-policy.md",
     "name": "hrl-legal-ip-dmca-policy",
-    "title": "HRL International \u2014 IP, Trademark, Copyright & DMCA Charter",
+    "title": "HRL International — IP, Trademark, Copyright & DMCA Charter",
     "category": "Enterprise Operations & Legal Charters",
     "desc": "Official Public Intellectual Property Vault, NICE Trademark Classification (Classes 9, 38, 41, 42), Copyright Doctrine, and Statutory DMCA Policy.",
     "html_url": "https://github.com/hrlpavan/hrl-legal-ip-dmca-policy",
@@ -1640,5 +1640,37 @@
     ],
     "summary": "An industrial 3D simulation foundation built on NVIDIA Omniverse Kit and OpenUSD for interactive CAD assembly inspection, scene playback, and real-time ray-traced visualization.",
     "gitlab_url": "https://gitlab.com/hrlpavan/kit-app-template"
+  },
+  {
+    "id": 53,
+    "filename": "53-hrl-corporate-flag.md",
+    "name": "hrl-corporate-flag",
+    "title": "HRL Corporate Flag & Heraldic Apex Beast Identity System",
+    "category": "Commercial Enterprise, PropTech & Platforms",
+    "desc": "Official corporate flag and heraldic vector identity system for HRL International Private Limited featuring the Twin-Headed Shadow Wyvern.",
+    "html_url": "https://github.com/hrlpavan/hrl-corporate-flag",
+    "primary_lang": "SVG / Python / HTML5",
+    "languages": [
+      "SVG",
+      "Python",
+      "HTML5",
+      "CSS3"
+    ],
+    "visibility": "Public",
+    "created_at": "2026-10-20",
+    "highlights": [
+      "Pure solid black (#000000) heraldic emblem inspired by the Albanian double-headed eagle silhouette",
+      "Non-regular terrifying mythical beast: Twin-Headed Abyssal Wyvern with serrated horns, gaping fangs, and barbed serpent tongues",
+      "Compound vector path architecture using fill-rule=\"evenodd\" for true negative-space cutouts",
+      "Fully customizable background via CSS variable --bg-color or XML fill attribute, with interactive web previewer"
+    ],
+    "tech_stack": [
+      "Scalable Vector Graphics (SVG)",
+      "Python 3",
+      "HTML5 / CSS3",
+      "Bézier Geometry"
+    ],
+    "summary": "The official corporate flag and heraldic apex beast identity system engineered for HRL International Private Limited with pure black compound paths and replaceable backgrounds.",
+    "gitlab_url": "https://gitlab.com/hrlpavan/hrl-corporate-flag"
   }
 ]
