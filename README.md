@@ -120,7 +120,7 @@ Every single project features:
 | **50** | [AI Cinematic Haze — OpenFX & Fusion Plugin for DaVinci Resolve](projects/50-ai-cinematic-haze-ofx.md) | [`ai-cinematic-haze-ofx`](https://github.com/hrlpavan/ai-cinematic-haze-ofx) | `Creative Tools & GPU Shaders` | `C++ / Metal / CUDA` | 🌐 Public | [View Info →](projects/50-ai-cinematic-haze-ofx.md) |
 | **51** | [HRL International — IP, Trademark, Copyright & DMCA Charter](projects/51-hrl-legal-ip-dmca-policy.md) | [`hrl-legal-ip-dmca-policy`](https://github.com/hrlpavan/hrl-legal-ip-dmca-policy) | `Enterprise Operations & Legal Charters` | `Markdown / HTML` | 🌐 Public | [View Info →](projects/51-hrl-legal-ip-dmca-policy.md) |
 | **52** | [NVIDIA Omniverse Kit USD Explorer Application Template](projects/52-kit-app-template.md) | [`kit-app-template`](https://github.com/hrlpavan/kit-app-template) | `3D Graphics & Mechanical Simulation` | `Python / C++` | 🌐 Public | [View Info →](projects/52-kit-app-template.md) |
-| **53** | [HRL Corporate Flag & Heraldic Apex Beast Identity System](projects/53-hrl-corporate-flag.md) | [`hrl-corporate-flag`](https://github.com/hrlpavan/hrl-corporate-flag) | `Commercial Enterprise, PropTech & Platforms` | `SVG / Python / HTML5` | 🌐 Public | [View Info →](projects/53-hrl-corporate-flag.md) |
+| **53** | [HRL International Official Corporate Flag](projects/53-hrl-corporate-flag.md) | [`hrl-corporate-flag`](https://github.com/hrlpavan/hrl-corporate-flag) | `Commercial Enterprise, Brand Identity & Vexillology` | `SVG / HTML5 / CSS3` | 🌐 Public | [View Info →](projects/53-hrl-corporate-flag.md) |
 
 ---
 
@@ -171,7 +171,7 @@ Scalable web portals, enterprise PropTech platforms, corporate asset archives, a
 - **[HRL Executive Member Vault & C-Suite Mandate Archive](projects/46-hrl-executive-member-vault.md)**: Private C-Suite Executive Governance Vault housing CGRO Statutory Mandates, US Delaware C-Corp Expansion Playbooks, and Grant Dossiers.
 - **[Developer Skill Icons — DaVinci Resolve, Antigravity & UiPath](projects/48-skill-icons.md)**: Custom vector SVG developer skill icons for DaVinci Resolve Studio, Google Antigravity, and UiPath Studio (PR #1803).
 - **[HRL International — IP, Trademark, Copyright & DMCA Charter](projects/51-hrl-legal-ip-dmca-policy.md)**: Official Public Intellectual Property Vault, NICE Trademark Classification (Classes 9, 38, 41, 42), Copyright Doctrine, and Statutory DMCA Policy.
-- **[HRL Corporate Flag & Heraldic Apex Beast Identity System](projects/53-hrl-corporate-flag.md)**: Official corporate flag and heraldic vector identity system for HRL International Private Limited featuring the Twin-Headed Shadow Wyvern in pure black (#000000).
+- **[HRL International Official Corporate Flag](projects/53-hrl-corporate-flag.md)**: Official sovereign corporate flag and heraldic identity system for HRL International Private Limited featuring Nordic Cross geometry, quad-stripe canton, brand insignia, dual heraldic eagles, and 8-pointed compass star.
 
 ### 5. Executive Blueprints, Manifestos & Career Architecture
 Thought leadership, executive compensation models, and comprehensive career valuation blueprints.
