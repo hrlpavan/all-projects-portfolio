@@ -4,6 +4,7 @@
 [![GitLab Mirror](https://img.shields.io/badge/GitLab-Mirror-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hrlpavan/hrl-corporate-flag)
 [![Visibility](https://img.shields.io/badge/Visibility-Public-brightgreen?style=for-the-badge)](https://github.com/hrlpavan/hrl-corporate-flag)
 [![Primary Language](https://img.shields.io/badge/Language-SVG%20%2F%20HTML5%20%2F%20CSS3-brightgreen?style=for-the-badge)](https://github.com/hrlpavan/hrl-corporate-flag)
+[![RAW Master PNG](https://img.shields.io/badge/RAW%20Master%20PNG-10800x7200%20(77.7%20MP)-BF1F1F?style=for-the-badge)](https://raw.githubusercontent.com/hrlpavan/hrl-corporate-flag/main/HRL%20INTERNATIONAL%20PRIVATE%20LIMITED%20CORE%20COUNTRY%20FLAG.png)
 [![Created](https://img.shields.io/badge/Created-2026--10--20-informational?style=for-the-badge)](https://github.com/hrlpavan/hrl-corporate-flag)
 
 > **Back to Index**: [Master Project Showcase](../README.md) | [Projects Catalog](README.md)
@@ -11,11 +12,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hrlpavan/hrl-corporate-flag/main/flag.svg" alt="HRL International Official Corporate Flag" width="650" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="https://raw.githubusercontent.com/hrlpavan/hrl-corporate-flag/main/HRL%20INTERNATIONAL%20PRIVATE%20LIMITED%20CORE%20COUNTRY%20FLAG.png" alt="HRL International Official Corporate Flag RAW Master" width="650" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 ## Executive Summary
-The official corporate flag and sovereign visual identity system engineered for **HRL International Private Limited**. Engineered with mathematical precision, the flag integrates a Nordic Cross geometry on a rich crimson field (`#BF1F1F`), 4 hoist canton accent stripes, the official HRL brand insignia, dual heraldic double-headed eagles, and the 8-pointed crimson compass star. 100% scalable vector graphics with dynamic background customizability.
+The official corporate flag and sovereign visual identity system engineered for **HRL International Private Limited**. Engineered with mathematical precision, the flag integrates a Nordic Cross geometry on a rich crimson field (`#BF1F1F`), 4 hoist canton accent stripes, the official HRL brand insignia, dual heraldic double-headed eagles, and the 8-pointed crimson compass star. Distributed in 100% scalable vector graphics (`flag.svg`) alongside the RAW Master Ultra-HD PNG (`HRL INTERNATIONAL PRIVATE LIMITED CORE COUNTRY FLAG.png`, 10,800 × 7,200 px, 77.7 MP).
 
 ## Repository Metadata
 | Attribute | Specification |
@@ -37,6 +38,7 @@ The official corporate flag and sovereign visual identity system engineered for 
 - **Heraldic Lower Canton Triad**: Twin black double-headed eagles (`#000000`) flanking an 8-pointed crimson compass star (`#BF1F1F`) on the vertical white stripe.
 - **Upper Hoist Canton Accent Stripes**: 4 vertical black stripes adjacent to the cross representing core pillars of enterprise.
 - **Dynamic Background Recoloring**: CSS variables (`--field-color`, `--bg-color`) enable instant background swapping and transparency across web portals.
+- **Dual Vector & Master Ultra-HD Raster Delivery**: Distributed as both a 100% vector SVG and an uncompressed RAW Master UHD PNG (10,800 × 7,200 px, 77.7 MP) for maximum fidelity across print, architectural fabric, and ultra-high-definition displays.
 - **Interactive Web Previewer**: Zero-dependency standalone HTML5 preview application with color swatch controls, hex color picker, and instant SVG export.
 
 ---
