@@ -5,13 +5,13 @@
 [![Architect](https://img.shields.io/badge/Chief%20Architect-Pavan%20Kumar%20Sadashiv-0A66C2?style=for-the-badge&logo=linkedin)](https://github.com/hrlpavan)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-hrlpavan-181717?style=for-the-badge&logo=github)](https://github.com/hrlpavan)
 [![GitLab Profile](https://img.shields.io/badge/GitLab-hrlpavan-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hrlpavan)
-[![Total Projects](https://img.shields.io/badge/Master%20Portfolio-52%20Projects-success?style=for-the-badge&logo=git)](projects/)
+[![Total Projects](https://img.shields.io/badge/Master%20Portfolio-53%20Projects-success?style=for-the-badge&logo=git)](projects/)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-HRL%20International%20Pvt.%20Ltd.-orange?style=for-the-badge)](https://github.com/hrlpavan/hrl-international-website-)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Streak Maintained](https://img.shields.io/badge/Contributions-Streak%20Active-brightgreen?style=for-the-badge&logo=githubactions)](https://github.com/hrlpavan)
 
 <p align="center">
-  <b>The comprehensive, centralized directory and technical catalog of all 52 engineering projects, autonomous AI systems, real-time 3D simulations, video editing plugins, and enterprise platforms built by Pavan Kumar Sadashiv (HRL).</b>
+  <b>The comprehensive, centralized directory and technical catalog of all 53 engineering projects, autonomous AI systems, real-time 3D simulations, video editing plugins, and enterprise platforms built by Pavan Kumar Sadashiv (HRL).</b>
 </p>
 
 </div>
@@ -21,7 +21,7 @@
 ## 📌 Table of Contents
 - [Executive Overview](#-executive-overview)
 - [Portfolio Metrics & Tech Stack](#-portfolio-metrics--tech-stack)
-- [Master Project Catalog (52 Projects)](#-master-project-catalog)
+- [Master Project Catalog (53 Projects)](#-master-project-catalog)
 - [Categorical Deep Dives](#-categorical-deep-dives)
   - [1. Autonomous AI, LLMs & Agentic Systems](#1-autonomous-ai-llms--agentic-systems)
   - [2. Real-Time Simulation, 3D Graphics & DSP Audio](#2-real-time-simulation-3d-graphics--dsp-audio)
@@ -52,7 +52,7 @@ Every single project features:
 ========================================================================================
  MASTER PORTFOLIO METRICS
 ========================================================================================
- Total Completed Repositories : 52 Projects (Synced on GitHub & GitLab)
+ Total Completed Repositories : 53 Projects (Synced on GitHub & GitLab)
  Architectural Domains        : 6 Specialized Disciplines
  Primary Languages            : C++20, Python, TypeScript, JavaScript, Rust, Zig, C, Swift, Lua
  Simulation & Graphics        : WebGL, Three.js, Web Audio DSP, GLSL Shaders, CUDA
@@ -120,6 +120,7 @@ Every single project features:
 | **50** | [AI Cinematic Haze — OpenFX & Fusion Plugin for DaVinci Resolve](projects/50-ai-cinematic-haze-ofx.md) | [`ai-cinematic-haze-ofx`](https://github.com/hrlpavan/ai-cinematic-haze-ofx) | `Creative Tools & GPU Shaders` | `C++ / Metal / CUDA` | 🌐 Public | [View Info →](projects/50-ai-cinematic-haze-ofx.md) |
 | **51** | [HRL International — IP, Trademark, Copyright & DMCA Charter](projects/51-hrl-legal-ip-dmca-policy.md) | [`hrl-legal-ip-dmca-policy`](https://github.com/hrlpavan/hrl-legal-ip-dmca-policy) | `Enterprise Operations & Legal Charters` | `Markdown / HTML` | 🌐 Public | [View Info →](projects/51-hrl-legal-ip-dmca-policy.md) |
 | **52** | [NVIDIA Omniverse Kit USD Explorer Application Template](projects/52-kit-app-template.md) | [`kit-app-template`](https://github.com/hrlpavan/kit-app-template) | `3D Graphics & Mechanical Simulation` | `Python / C++` | 🌐 Public | [View Info →](projects/52-kit-app-template.md) |
+| **53** | [HRL Corporate Flag & Heraldic Apex Beast Identity System](projects/53-hrl-corporate-flag.md) | [`hrl-corporate-flag`](https://github.com/hrlpavan/hrl-corporate-flag) | `Commercial Enterprise, PropTech & Platforms` | `SVG / Python / HTML5` | 🌐 Public | [View Info →](projects/53-hrl-corporate-flag.md) |
 
 ---
 
@@ -170,6 +171,7 @@ Scalable web portals, enterprise PropTech platforms, corporate asset archives, a
 - **[HRL Executive Member Vault & C-Suite Mandate Archive](projects/46-hrl-executive-member-vault.md)**: Private C-Suite Executive Governance Vault housing CGRO Statutory Mandates, US Delaware C-Corp Expansion Playbooks, and Grant Dossiers.
 - **[Developer Skill Icons — DaVinci Resolve, Antigravity & UiPath](projects/48-skill-icons.md)**: Custom vector SVG developer skill icons for DaVinci Resolve Studio, Google Antigravity, and UiPath Studio (PR #1803).
 - **[HRL International — IP, Trademark, Copyright & DMCA Charter](projects/51-hrl-legal-ip-dmca-policy.md)**: Official Public Intellectual Property Vault, NICE Trademark Classification (Classes 9, 38, 41, 42), Copyright Doctrine, and Statutory DMCA Policy.
+- **[HRL Corporate Flag & Heraldic Apex Beast Identity System](projects/53-hrl-corporate-flag.md)**: Official corporate flag and heraldic vector identity system for HRL International Private Limited featuring the Twin-Headed Shadow Wyvern in pure black (#000000).
 
 ### 5. Executive Blueprints, Manifestos & Career Architecture
 Thought leadership, executive compensation models, and comprehensive career valuation blueprints.
@@ -198,13 +200,13 @@ Developer productivity CLI tools, distributed lakehouse analytics, and rigorous 
 ---
 
 ## 📦 Structured Metadata Manifest
-This repository includes a machine-readable data manifest: **[`PROJECTS.json`](PROJECTS.json)** containing the complete structured schema for all 52 projects, enabling programmatic ingestion, indexing, and automated portfolio rendering.
+This repository includes a machine-readable data manifest: **[`PROJECTS.json`](PROJECTS.json)** containing the complete structured schema for all 53 projects, enabling programmatic ingestion, indexing, and automated portfolio rendering.
 
 ---
 
 ## ⚡ Automated Verification & CI
 Every commit and push triggers the automated GitHub Action **[`ci.yml`](.github/workflows/ci.yml)**, ensuring:
-- All 52 subfiles exist and match the index.
+- All 53 subfiles exist and match the index.
 - `PROJECTS.json` remains schema-compliant and synchronized.
 - Zero broken local markdown links.
 
