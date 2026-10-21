@@ -96,6 +96,14 @@ html_content = f'''<!DOCTYPE html>
       font-weight: 700;
       font-size: 15px;
     }}
+    .nav-brand img {{
+      height: 20px;
+      width: auto;
+      object-fit: contain;
+      vertical-align: middle;
+      box-shadow: none !important;
+      border: none !important;
+    }}
     .nav-links {{
       display: flex;
       align-items: center;
@@ -399,7 +407,7 @@ html_content = f'''<!DOCTYPE html>
   <nav class="apple-nav">
     <div class="nav-container">
       <a href="https://hrlpavan.github.io/hrl-international-website-/" class="nav-brand">
-        <img src="https://hrlpavan.github.io/hrl-international-website-/assets/logo.png" alt="HRL Logo" height="20" />
+        <img src="https://hrlpavan.github.io/hrl-international-website-/assets/HRL%20INTERNATIONAL%20PRIVATE%20LIMITED%20CORE%20COUNTRY%20FLAG.png" alt="HRL Flag" />
         <span>HRL International</span>
       </a>
       <ul class="nav-links">
